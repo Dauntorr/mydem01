@@ -1,2 +1,3 @@
 # mydem01
-my first repo demo
+This is my first Git Repository
+Author - Dr. Digvijay Singh Yadav
